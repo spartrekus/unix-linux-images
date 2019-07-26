@@ -1,0 +1,33 @@
+
+
+https://cdn.netbsd.org/pub/NetBSD/NetBSD-8.1/images/NetBSD-8.1-i386-install.img.gz
+
+https://download.freebsd.org/ftp/snapshots/arm64/aarch64/ISO-IMAGES/13.0/FreeBSD-13.0-CURRENT-arm64-aarch64-RPI3-20190718-r350103.img.xz
+
+https://github.com/RetroPie/RetroPie-Setup/releases/download/4.5/retropie-4.5-rpi2_rpi3.img.gz
+
+http://director.downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-07-12/2019-07-10-raspbian-buster-lite.zip
+
+https://raw.githubusercontent.com/spartrekus/links2-portable/master/links-2.14-portable.tar.gz
+
+https://dl.teamviewer.com/download/linux/version_14x/teamviewer_14.4.2669_i386.deb
+
+https://netcologne.dl.sourceforge.net/project/freebsd-12-0-aip-xorg-packages/txz-packages/var-cache-pkg-vers-5-pkg12x/pkg12x.tar.gz
+
+
+https://sourceforge.net/projects/libsdl-android/files/Bochs/mulinux13r2.img/download
+https://sourceforge.net/projects/libsdl-android/files/Bochs/FreeDos.vdi/download
+https://sourceforge.net/projects/libsdl-android/files/Bochs/tinycore-2.1-x86.vdi/download
+https://sourceforge.net/projects/libsdl-android/files/Bochs/LucidPuppy-520.vdi/download
+
+
+
+exit
+        final String names[] = {
+                "muLinux - 34 Mb",
+                "FreeDOS - 114 Mb",
+                "Tiny Core Linux - 123 Mb",
+                "Puppy Linux - 690 Mb",
+        };
+
+
